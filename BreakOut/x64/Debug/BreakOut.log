@@ -1,0 +1,5 @@
+﻿  Assembling BreakOut.asm...
+BreakOut.asm(1): error A2008: syntax error : .
+BreakOut.asm(2): error A2008: syntax error : .
+define.inc(3): fatal error A1000: cannot open file : windows.inc
+D:\Softwares\Visual Studio\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: 命令“ml64.exe /c /nologo /Zi /Fo"x64\Debug\BreakOut.obj" /W3 /errorReport:prompt  /TaBreakOut.asm”已退出，返回代码为 1。

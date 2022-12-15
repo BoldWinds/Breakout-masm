@@ -1,0 +1,3 @@
+﻿  Assembling BreakOut.asm...
+D:\Irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  BreakOut.vcxproj -> D:\SyncData\Projects\BreakOut\Debug\BreakOut.exe
